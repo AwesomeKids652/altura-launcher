@@ -1,50 +1,34 @@
-# vite-react-chakra-starter
+<h1 align="center" id="title">Altura Launcher</h1>
 
-> ## ⚠️ No longer actively maintained.
-> will update deps only
+<p id="description">Launcher for altura made by awesomekid :D</p>
 
-This is a project bootstrapped with [`@vitejs/app`](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) (`react-ts`), added with [Chakra UI](https://chakra-ui.com) and [TypeScript](https://www.typescriptlang.org) setup.
+<h2>🛠️ Installation Steps:</h2>
 
-- ⚡ blazing fast dev server and build
-- 🔗 route management added (`react-router-dom` configured)
-- ~~📈 SEO optimization ready~~
+<p>1. Install is only supported on windows. windows tutorial</p>
 
-[**Live Demo**](https://vite-react-chakra-starter.sznm.dev/)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/vite-react-chakra-starter) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/vite-react-chakra-starter)
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/sozonome/vite-react-chakra-starter)
-
-## Getting Started
-
-You can either click [`Use this template`](https://github.com/sozonome/vite-react-chakra-starter/generate) button on this repository and clone the repo or use npx degit like so:
-
-```bash
-npx degit sozonome/vite-react-chakra-starter <app_name>
+```
+its as simple as downloading the EXE and installing it!
 ```
 
-Then, run the development server:
+<h2>🍰 Contribution Guidelines:</h2>
 
-```bash
-yarn dev
-```
+You can contribute using pull requests.
 
-## Deployment
+  
+  
+<h2>💻 Built with</h2>
 
-- build command: `yarn build`
-- output directory: `dist`
+Technologies used in the project:
 
-## References
+*   Electron
+*   React
+*   Vite
+*   Typecript
 
-- [vite](https://vitejs.dev)
-  - [avoid manual import](https://vitejs.dev/guide/features.html#jsx)
-- [Chakra UI](https://chakra-ui.com/)
-- [TypeScript](https://www.typescriptlang.org)
+<h2>🛡️ License:</h2>
 
-## Roadmap / TODO
+This project is licensed under the MIT
 
-- [ ] configure [`eslint`](https://eslint.org)
-  - lint script and lint:fix script
-  - extend configurations
-- [ ] configure [`vite-plugin-ssr`](https://vite-plugin-ssr.com/)
-# altura-launcher
+<h2>💖Like my work?</h2>
+
+You can have support from discord.<p>https://discord.gg/cmkXhbxks2</p>
